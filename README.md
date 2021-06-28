@@ -247,16 +247,3 @@ module.exports = {
 
 没有```{{root}}```了，服务器渲染成功！
 
-# 总结
-
-相信这篇文章是最简单的react服务器渲染案例了，这里交出github地址，如果学会了，记得给个star
-
-> https://github.com/mtsee/react-koa2-ssr
-
-
-  [1]: https://image-static.segmentfault.com/172/820/1728206619-5c765504b90de_articlex
-  [2]: https://image-static.segmentfault.com/147/717/1477175201-5c7657d0d7a29_articlex
-  [3]: https://image-static.segmentfault.com/337/614/3376146941-5c76632940970_articlex
-  [4]: https://image-static.segmentfault.com/114/696/1146964533-5c765ba08f00b_articlex
-  [5]: https://image-static.segmentfault.com/117/321/1173215685-5c76616aa0cd0_articlex
-  [6]: https://image-static.segmentfault.com/714/996/714996020-5c7661032ad25_articlex
